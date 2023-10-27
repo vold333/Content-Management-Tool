@@ -64,7 +64,7 @@
       <!-- create blog -->
       <button type="submit" id="createBlogBtn">
         <i class="fa-solid fa-pen-to-square"></i>
-        Write Your Creative Blog
+        Write Your Creative Blogs
       </button>
     </div>
   </div>
